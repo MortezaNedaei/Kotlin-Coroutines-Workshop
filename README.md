@@ -6,8 +6,7 @@ This is the repository for presentation of Kotlin Coroutines Flow & Channels Wor
 - The slides are available from [SlideShare](https://www.slideshare.net/slideshow/coroutines-flow-channels-workshop-slides-a529/269973265) and [SpeakerDeck](https://speakerdeck.com/mortezanedaei/kotlin-coroutines-flow-and-channels-workshop-slides)
 - The paper for [Fast and Scalable Channels in Kotlin Coroutines](https://arxiv.org/pdf/2211.04986)
 
-  ![photo_2024-06-30 13 29 58](https://github.com/MortezaNedaei/Kotlin-Coroutines-Workshop/assets/38072572/dcbe6a76-ccf7-4745-aea2-c88aa50b0a4b)
-
+<a href="https://www.youtube.com/watch?v=SAVRGpgIgXE"> <img src="https://github.com/MortezaNedaei/Kotlin-Coroutines-Workshop/assets/38072572/e62b3d06-22df-4fa6-9160-58bf94a70e23"/> <a/>
 
 ### Topics
 
