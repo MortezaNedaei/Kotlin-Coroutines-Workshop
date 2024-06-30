@@ -1,6 +1,6 @@
-## Kotlin Coroutines Flow & Channels Workshop
+## Kotlin Coroutines Flow & Channels Workshop at Tapsell
 
-This is the repository for presentation of Kotlin Coroutines Flow & Channels Workshop.
+This is the repository for presentation of Kotlin Coroutines Flow & Channels Workshop at Tapsell.
 
 - The workshop video (in Farsi language) is accessible on the [YouTube](https://www.youtube.com/watch?v=SAVRGpgIgXE) channel.
 - The slides are available from [SlideShare](https://www.slideshare.net/slideshow/coroutines-flow-channels-workshop-slides-a529/269973265) and [SpeakerDeck](https://speakerdeck.com/mortezanedaei/kotlin-coroutines-flow-and-channels-workshop-slides)
